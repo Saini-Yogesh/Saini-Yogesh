@@ -1,5 +1,11 @@
 ### Hi there 👋
+👋 Hi, I’m YOGESH SAINI
 
+🔭 I’m currently working as UG Student at NIT Rourkela
+
+🌱 I’m currently learning Web- Development ,DATA-Structure and algorithm
+
+💬 Ask me about Web- Development ,DATA-Structure and algorithm
 <!--
 **Saini-Yogesh/Saini-Yogesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
