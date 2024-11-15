@@ -4,7 +4,7 @@
 
 🌱 I’m currently learning Web- Development, DATA-Structure and algorithm
 
-💬 Ask me about Web- Development, DATA-Structure and algorithm
+💬 Ask me about Web-Development, DATA-Structure and algorithm
 
 
 
