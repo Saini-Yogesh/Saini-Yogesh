@@ -39,9 +39,13 @@
 </td>
 </tr>
 </table>
-
+<!--
 <br>
 
+<img align="center" style="margin:1rem" src="https://github-readme-stats.vercel.app/api?username=Saini-Yogesh&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Chuck's GitHub Stats" />
+
+<br>
+-->
 
 <!-- Adding Footer -->
 [![](https://visitcount.itsvg.in/api?id=Saini-Yogesh&label=Profile%20Views&color=9&icon=5&pretty=false)](https://visitcount.itsvg.in)
