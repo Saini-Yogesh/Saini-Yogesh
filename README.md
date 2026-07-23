@@ -1,40 +1,68 @@
- <h1 align="center">  Hi👋, I’m Yogesh Saini </h1>
- <h3 align="center">Hi! I’m here to turn your ideas into seamless web experiences!</h3>
- 
-🔭 I’m currently working as a UG Student at NIT Rourkela
+<h1 align="center">Hi 👋, I'm Yogesh Saini</h1>
 
-🌱 I’m currently learning Web- Development, DATA-Structure and algorithm
+<h3 align="center">
+Software Engineer • Backend • Full Stack • Data Engineering
+</h3>
 
-💬 Ask me about Web-Development, DATA-Structure and Algorithm
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=700&lines=Backend+Developer;Full+Stack+Developer;Data+Engineering;LeetCode+Knight+%7C+CF+Specialist" />
+</p>
 
+<p align="center">
+<a href="https://github.com/Saini-Yogesh"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/></a>
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/></a>
+<a href="https://saini-yogesh.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/></a>
+<a href="mailto:yogesh.saini4002@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 
+---
 
-- 👨‍💻 My portfolio [Portfolio](https://saini-yogesh.github.io/Portfolio/)
+## 👨‍💻 About Me
 
-- 📫 How to reach me *yogesh.saini4002@gmail.com*
+- 🎓 B.Tech Graduate from **NIT Rourkela**
+- 💼 Data Engineering Intern at **Vivriti Capital**
+- 🚀 Ex Full-Stack Developer Intern
+- 🏆 **LeetCode Knight (1891)** • **Codeforces Specialist (1470)**
+- 🌱 Interested in **Backend, Data Engineering & Distributed Systems**
 
-<!-- Adding Readme Stats and Profile Summary -->
+---
 
-<table width="100%" align="center">
-<tr>
- <td>
-  <img width="350em" src="http://github-readme-stats.vercel.app/api/top-langs?username=Saini-Yogesh&show_icons=true&locale=en&layout=compact&theme=radical" alt="Readme Stat"/>
-</td>
-<td>
-  <img width="600em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Saini-Yogesh&theme=radical" alt="Profile Summary">
-</td>
-</tr>
-</table>
-<!--
-<br>
+## 🛠 Tech Stack
 
-<img align="center" style="margin:1rem" src="https://github-readme-stats.vercel.app/api?username=Saini-Yogesh&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Chuck's GitHub Stats" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=cpp,python,js,react,nextjs,nodejs,express,mongodb,mysql,git,github,tailwind,aws,docker,vscode" />
+</p>
 
-<br>
--->
+**Also:** PySpark • Databricks • Airflow • Delta Lake • SQL • Redis
 
-<!-- Adding Footer -->
-[![](https://visitcount.itsvg.in/api?id=Saini-Yogesh&label=Profile%20Views&color=9&icon=5&pretty=false)](https://visitcount.itsvg.in)
-<div align="center"> <b> Show some ❤️ by starring some of the repositories! </b> </div>
+---
 
+## ⭐ Featured Projects
 
+- 🤖 **WhatsApp AI Chatbot Builder**
+- 🌍 **Rajasthan Connect**
+- 📊 **Segment Tree Visualizer**
+- 🌾 **AgriShare**
+
+---
+
+## 📊 GitHub Stats
+
+<!-- <p align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Saini-Yogesh&show_icons=true&theme=radical"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saini-Yogesh&layout=compact&theme=radical"/>
+</p> -->
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Saini-Yogesh&theme=radical"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Saini-Yogesh&theme=react-dark"/>
+</p>
+
+---
+
+<p align="center">
+⭐ Thanks for visiting my profile! Feel free to explore my repositories.
+</p>
