@@ -94,7 +94,7 @@
 
 <p align="center">
   <b><a href="https://segment-tree-visualization.vercel.app/">Segment Tree Visualizer</a></b> (<a href="https://github.com/Saini-Yogesh/segment-tree-visualization">GitHub</a>) — Interactive DSA visualization tool actively used by learners to step through range queries, point updates, and lazy propagation in real time.<br /><br />
-  <b><a href="https://rajasthanconnect.in">rajasthanconnect.in</a></b> (<a href="https://github.com/Saini-Yogesh/rajasthanconnect">GitHub</a>) — Live full-stack platform serving real users in production, engineered end-to-end for performance and reliability.
+  <b><a href="https://rajasthanconnect.in">Rajasthan Connect</a></b> (<a href="https://github.com/Saini-Yogesh/rajasthanconnect">GitHub</a>) — Live full-stack platform serving real users in production, engineered end-to-end for performance and reliability.
 </p>
 
 <p align="center">
