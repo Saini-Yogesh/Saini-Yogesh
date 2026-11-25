@@ -49,6 +49,7 @@
 <h2 align="center">🛠 Tech Stack</h2>
 
 <p align="center">
+  <b>Languages &amp; Frontend</b><br />
   <img src="https://img.shields.io/badge/C++-161b22?style=for-the-badge&logo=cplusplus&logoColor=00599C" alt="C++" />
   <img src="https://img.shields.io/badge/Python-161b22?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
   <img src="https://img.shields.io/badge/JavaScript-161b22?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
@@ -58,6 +59,10 @@
   <img src="https://img.shields.io/badge/Next.js-161b22?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/Tailwind%20CSS-161b22?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/Electron-161b22?style=for-the-badge&logo=electron&logoColor=47848F" alt="Electron" />
+</p>
+
+<p align="center">
+  <b>Backend &amp; Databases</b><br />
   <img src="https://img.shields.io/badge/Node.js-161b22?style=for-the-badge&logo=nodedotjs&logoColor=339933" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express-161b22?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
   <img src="https://img.shields.io/badge/npm-161b22?style=for-the-badge&logo=npm&logoColor=CB3837" alt="npm" />
@@ -65,14 +70,22 @@
   <img src="https://img.shields.io/badge/MySQL-161b22?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="MySQL" />
   <img src="https://img.shields.io/badge/MongoDB-161b22?style=for-the-badge&logo=mongodb&logoColor=47A248" alt="MongoDB" />
   <img src="https://img.shields.io/badge/Redis-161b22?style=for-the-badge&logo=redis&logoColor=DC382D" alt="Redis" />
-  <img src="https://img.shields.io/badge/Neo4j-161b22?style=for-the-badge&logo=neo4j&logoColor=008CC1" alt="Neo4j" />
-  <img src="https://img.shields.io/badge/Knowledge%20Graph-161b22?style=for-the-badge&logo=neo4j&logoColor=4581C3" alt="Knowledge Graph" />
   <img src="https://img.shields.io/badge/SQL-161b22?style=for-the-badge&logo=postgresql&logoColor=4479A1" alt="SQL" />
+</p>
+
+<p align="center">
+  <b>Data Engineering &amp; Knowledge Graphs</b><br />
   <img src="https://img.shields.io/badge/Python%20ETL-161b22?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python ETL" />
   <img src="https://img.shields.io/badge/PySpark-161b22?style=for-the-badge&logo=apachespark&logoColor=E25A1C" alt="PySpark" />
   <img src="https://img.shields.io/badge/Databricks-161b22?style=for-the-badge&logo=databricks&logoColor=FF3621" alt="Databricks" />
   <img src="https://img.shields.io/badge/Airflow-161b22?style=for-the-badge&logo=apacheairflow&logoColor=017CEE" alt="Airflow" />
   <img src="https://img.shields.io/badge/Delta%20Lake-161b22?style=for-the-badge&logo=databricks&logoColor=00ADD8" alt="Delta Lake" />
+  <img src="https://img.shields.io/badge/Neo4j-161b22?style=for-the-badge&logo=neo4j&logoColor=008CC1" alt="Neo4j" />
+  <img src="https://img.shields.io/badge/Knowledge%20Graph-161b22?style=for-the-badge&logo=neo4j&logoColor=4581C3" alt="Knowledge Graph" />
+</p>
+
+<p align="center">
+  <b>Cloud, Deployment &amp; Tools</b><br />
   <img src="https://img.shields.io/badge/AWS-161b22?style=for-the-badge&logo=amazonaws&logoColor=FF9900" alt="AWS" />
   <img src="https://img.shields.io/badge/AWS%20EC2-161b22?style=for-the-badge&logo=amazonec2&logoColor=FF9900" alt="AWS EC2" />
   <img src="https://img.shields.io/badge/AWS%20S3-161b22?style=for-the-badge&logo=amazons3&logoColor=569A31" alt="AWS S3" />
@@ -98,7 +111,7 @@
 </p>
 
 <p align="center">
-  🤝 <b>Open to Open-Source Contributions</b> (PRs & contributors welcome!) • 💼 <b>Available for Freelancing</b> 
+  🤝 <b>Open to Open-Source Contributions</b> (PRs &amp; contributors welcome!) • 💼 <b>Available for Freelancing</b>
 </p>
 
 ---
